@@ -36,7 +36,6 @@ def jls_extract_def():
             print("wrong choice")
     else:
         print("wrong pin number")
-    return f
 
 
 f = jls_extract_def()
